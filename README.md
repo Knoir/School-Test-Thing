@@ -1,2 +1,2 @@
 # School-Test-Thing
-This is just a test.
+This is not just a test!
